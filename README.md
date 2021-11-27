@@ -2,7 +2,7 @@
 
 <div align="">
   <p>
- Welcome to my little tech corner. Here you'll find some of the things I'm currently tinkering with and interested about. Below you'll find a summary of the tools I frequently use to make the computer behave.
+ Welcome to my little tech corner. Here you'll find some of the things I'm currently tinkering with and interested in. Below you'll find a summary of the tools I frequently use to make the computer behave.
   </p>
 
   <details>
