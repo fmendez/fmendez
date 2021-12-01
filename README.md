@@ -5,6 +5,8 @@
  Welcome to my little tech corner. Here you'll find some of the things I'm currently tinkering with and interested in. Below you'll find a summary of the tools I frequently use to make the computer behave.
   </p>
 
+![](https://komarev.com/ghpvc/?username=fmendez)
+
   <details>
     <summary>Click here to see what's in my toolbox 🧰</summary>
 
